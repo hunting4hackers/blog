@@ -1,4 +1,4 @@
-com.avvvvsvmcloud$
+com.avsvmcloud$
 org.digitalcollege$
 com.freescanonline$
 com.deftsecurity$
@@ -14,7 +14,7 @@ com.lcomputers$
 com.virtualdataserver$
 com.webcodez$
 com.infinitysoftwares$
-com.avvvsvmcloud\.
+com.avsvmcloud\.
 org.digitalcollege\.
 com.freescanonline\.
 com.deftsecurity\.
